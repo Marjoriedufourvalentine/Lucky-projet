@@ -1,117 +1,117 @@
-#EXTM3U url-tvg="URL_EPG"
+#EXTM3U
 
 #===== FRANCE =====
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="URL_LOGO_TF1" group-title="FRANCE",TF1
+#EXTINF:-1 group-title="FRANCE",TF1
 URL_TF1
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="URL_LOGO_FRANCE_2" group-title="FRANCE",France 2
+#EXTINF:-1 group-title="FRANCE",France 2
 URL_FRANCE2
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="URL_LOGO_FRANCE_3" group-title="FRANCE",France 3
+#EXTINF:-1 group-title="FRANCE",France 3
 URL_FRANCE3
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="URL_LOGO_FRANCE_4" group-title="FRANCE",France 4
+#EXTINF:-1 group-title="FRANCE",France 4
 URL_FRANCE4
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="URL_LOGO_FRANCE_5" group-title="FRANCE",France 5
+#EXTINF:-1 group-title="FRANCE",France 5
 URL_FRANCE5
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="URL_LOGO_M6" group-title="FRANCE",M6
+#EXTINF:-1 group-title="FRANCE",M6
 URL_M6
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="URL_LOGO_ARTE" group-title="FRANCE",Arte
+#EXTINF:-1 group-title="FRANCE",Arte
 URL_ARTE
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="URL_LOGO_W9" group-title="FRANCE",W9
+#EXTINF:-1 group-title="FRANCE",W9
 URL_W9
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="URL_LOGO_TMC" group-title="FRANCE",TMC
+#EXTINF:-1 group-title="FRANCE",TMC
 URL_TMC
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="URL_LOGO_C8" group-title="FRANCE",C8
+#EXTINF:-1 group-title="FRANCE",C8
 URL_C8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="URL_LOGO_6TER" group-title="FRANCE",6ter
+#EXTINF:-1 group-title="FRANCE",6ter
 URL_6TER
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="URL_LOGO_GULLI" group-title="FRANCE",Gulli
+#EXTINF:-1 group-title="FRANCE",Gulli
 URL_GULLI
 
 #===== INFO =====
 
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="URL_LOGO_BFM_TV" group-title="INFO",BFM TV
+#EXTINF:-1 group-title="INFO",BFM TV
 URL_BFMTV
-#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="franceinfo" tvg-logo="URL_LOGO_FRANCEINFO" group-title="INFO",franceinfo
+#EXTINF:-1 group-title="INFO",franceinfo
 URL_FRANCEINFO
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="URL_LOGO_LCI" group-title="INFO",LCI
+#EXTINF:-1 group-title="INFO",LCI
 URL_LCI
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="URL_LOGO_CNEWS" group-title="INFO",CNews
+#EXTINF:-1 group-title="INFO",CNews
 URL_CNEWS
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="URL_LOGO_FRANCE_24" group-title="INFO",France 24
+#EXTINF:-1 group-title="INFO",France 24
 URL_FRANCE24
-#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews" tvg-logo="URL_LOGO_EURONEWS" group-title="INFO",Euronews
+#EXTINF:-1 group-title="INFO",Euronews
 URL_EURONEWS
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="URL_LOGO_TV5MONDE_INFO" group-title="INFO",TV5Monde Info
+#EXTINF:-1 group-title="INFO",TV5Monde Info
 URL_TV5MONDE
 
 #===== BELGIQUE =====
 
-#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" tvg-logo="URL_LOGO_LA_UNE" group-title="BELGIQUE",La Une
+#EXTINF:-1 group-title="BELGIQUE",La Une
 URL_LA_UNE
-#EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik" tvg-logo="URL_LOGO_TIPIK" group-title="BELGIQUE",Tipik
+#EXTINF:-1 group-title="BELGIQUE",Tipik
 URL_TIPIK
-#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="La Trois" tvg-logo="URL_LOGO_LA_TROIS" group-title="BELGIQUE",La Trois
+#EXTINF:-1 group-title="BELGIQUE",La Trois
 URL_LA_TROIS
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL TVI" tvg-logo="URL_LOGO_RTL_TVI" group-title="BELGIQUE",RTL TVI
+#EXTINF:-1 group-title="BELGIQUE",RTL TVI
 URL_RTL_TVI
-#EXTINF:-1 tvg-id="ClubRTL.be" tvg-name="Club RTL" tvg-logo="URL_LOGO_CLUB_RTL" group-title="BELGIQUE",Club RTL
+#EXTINF:-1 group-title="BELGIQUE",Club RTL
 URL_CLUB_RTL
-#EXTINF:-1 tvg-id="PlugRTL.be" tvg-name="Plug RTL" tvg-logo="URL_LOGO_PLUG_RTL" group-title="BELGIQUE",Plug RTL
+#EXTINF:-1 group-title="BELGIQUE",Plug RTL
 URL_PLUG_RTL
-#EXTINF:-1 tvg-id="AB3.be" tvg-name="AB3" tvg-logo="URL_LOGO_AB3" group-title="BELGIQUE",AB3
+#EXTINF:-1 group-title="BELGIQUE",AB3
 URL_AB3
-#EXTINF:-1 tvg-id="LN24.be" tvg-name="LN24" tvg-logo="URL_LOGO_LN24" group-title="BELGIQUE",LN24
+#EXTINF:-1 group-title="BELGIQUE",LN24
 URL_LN24
-#EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1" tvg-logo="URL_LOGO_BX1" group-title="BELGIQUE",BX1
+#EXTINF:-1 group-title="BELGIQUE",BX1
 URL_BX1
 
 #===== SUISSE =====
 
-#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="RTS 1" tvg-logo="URL_LOGO_RTS_1" group-title="SUISSE",RTS 1
+#EXTINF:-1 group-title="SUISSE",RTS 1
 URL_RTS1
-#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="RTS 2" tvg-logo="URL_LOGO_RTS_2" group-title="SUISSE",RTS 2
+#EXTINF:-1 group-title="SUISSE",RTS 2
 URL_RTS2
 
 #===== CANAL+ =====
 
-#EXTINF:-1 tvg-id="Canal+.fr" tvg-name="Canal+" tvg-logo="URL_LOGO_CANAL" group-title="CANAL+",Canal+
+#EXTINF:-1 group-title="CANAL+",Canal+
 URL_ABONNEMENT_CANALPLUS
-#EXTINF:-1 tvg-id="Canal+Sport.fr" tvg-name="Canal+ Sport" tvg-logo="URL_LOGO_CANAL_SPORT" group-title="CANAL+",Canal+ Sport
+#EXTINF:-1 group-title="CANAL+",Canal+ Sport
 URL_CANALPLUS_SPORT
-#EXTINF:-1 tvg-id="Canal+Cinema.fr" tvg-name="Cinéma Canal+" tvg-logo="URL_LOGO_CIN_MA_CANAL" group-title="CANAL+",Cinéma Canal+
+#EXTINF:-1 group-title="CANAL+",Cinéma Canal+
 URL_CANALPLUS_CINEMA
-#EXTINF:-1 tvg-id="Canal+Series.fr" tvg-name="Série Canal+" tvg-logo="URL_LOGO_S_RIE_CANAL" group-title="CANAL+",Série Canal+
+#EXTINF:-1 group-title="CANAL+",Série Canal+
 URL_CANALPLUS_SERIES
 
 #===== SPORT =====
 
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'Équipe" tvg-logo="URL_LOGO_L_QUIPE" group-title="SPORT",L'Équipe
+#EXTINF:-1 group-title="SPORT",L'Équipe
 URL_LEQUIPE
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="URL_LOGO_RMC_SPORT_1" group-title="SPORT",RMC Sport 1
+#EXTINF:-1 group-title="SPORT",RMC Sport 1
 URL_RMCSPORT1
-#EXTINF:-1 tvg-id="beINSports1.fr" tvg-name="beIN Sports 1" tvg-logo="URL_LOGO_BEIN_SPORTS_1" group-title="SPORT",beIN Sports 1
+#EXTINF:-1 group-title="SPORT",beIN Sports 1
 URL_BEIN1
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="URL_LOGO_EUROSPORT_1" group-title="SPORT",Eurosport 1
+#EXTINF:-1 group-title="SPORT",Eurosport 1
 URL_EUROSPORT1
 
 #===== CINEMA =====
 
-#EXTINF:-1 tvg-id="TCMCinema.fr" tvg-name="TCM Cinéma" tvg-logo="URL_LOGO_TCM_CIN_MA" group-title="CINEMA",TCM Cinéma
+#EXTINF:-1 group-title="CINEMA",TCM Cinéma
 URL_TCM
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel" tvg-logo="URL_LOGO_PARAMOUNT_CHANNEL" group-title="CINEMA",Paramount Channel
+#EXTINF:-1 group-title="CINEMA",Paramount Channel
 URL_PARAMOUNT
-#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="Ciné+ Premier" tvg-logo="URL_LOGO_CIN_PREMIER" group-title="CINEMA",Ciné+ Premier
+#EXTINF:-1 group-title="CINEMA",Ciné+ Premier
 URL_CINEPLUS_PREMIER
 
 #===== ENFANTS =====
 
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="URL_LOGO_GULLI" group-title="ENFANTS",Gulli
+#EXTINF:-1 group-title="ENFANTS",Gulli
 URL_GULLI_ENFANTS
-#EXTINF:-1 tvg-id="PiwiPlus.fr" tvg-name="Piwi+" tvg-logo="URL_LOGO_PIWI" group-title="ENFANTS",Piwi+
+#EXTINF:-1 group-title="ENFANTS",Piwi+
 URL_PIWI
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" tvg-logo="URL_LOGO_BOOMERANG" group-title="ENFANTS",Boomerang
+#EXTINF:-1 group-title="ENFANTS",Boomerang
 URL_BOOMERANG
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network" tvg-logo="URL_LOGO_CARTOON_NETWORK" group-title="ENFANTS",Cartoon Network
+#EXTINF:-1 group-title="ENFANTS",Cartoon Network
 URL_CARTOON
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="URL_LOGO_NICKELODEON" group-title="ENFANTS",Nickelodeon
+#EXTINF:-1 group-title="ENFANTS",Nickelodeon
 URL_NICKELODEON
