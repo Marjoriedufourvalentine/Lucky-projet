@@ -107,10 +107,3 @@ URL_BOOMERANG
 URL_CARTOON
 #EXTINF:-1 group-title="ENFANTS",Nickelodeon
 URL_NICKELODEON
-
-# FIN DU MODELE
-# Remplacer chaque URL_... par une adresse de flux officielle et autorisée.
-# Les identifiants URL_... sont des placeholders et ne sont pas lisibles par Vivo Player.
-# Canal+ : utiliser l'application ou le décodeur officiel avec l'abonnement Orange/Canal+.
-# RTBF Auvio : utiliser l'application officielle Auvio pour les directs et replays.
-
