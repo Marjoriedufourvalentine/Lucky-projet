@@ -1,17 +1,58 @@
+
+
 #EXTM3U
-#EXTINF:-1 tvg-id="France24.fr" group-title="France",France 24
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="arte.fr" group-title="France",Arte
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="20MinutesTV.fr" group-title="France",20 Minutes TV
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn" group-title="France",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="Africa24.fr" group-title="France",Africa 24
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 tvg-id="BelRTL.be" group-title="Belgique",Bel RTL
-https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="LN24.be" group-title="Belgique",LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:-1 tvg-id="BX1.be" group-title="Belgique",BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+
+# ===== FRANCE =====
+
+#EXTINF:-1 group-title="FRANCE",TF1
+URL_TF1
+#EXTINF:-1 group-title="FRANCE",France 2
+URL_FRANCE2
+#EXTINF:-1 group-title="FRANCE",France 3
+URL_FRANCE3
+#EXTINF:-1 group-title="FRANCE",France 4
+URL_FRANCE4
+#EXTINF:-1 group-title="FRANCE",France 5
+URL_FRANCE5
+#EXTINF:-1 group-title="FRANCE",M6
+URL_M6
+#EXTINF:-1 group-title="FRANCE",Arte
+URL_ARTE
+#EXTINF:-1 group-title="FRANCE",W9
+URL_W9
+#EXTINF:-1 group-title="FRANCE",TMC
+URL_TMC
+#EXTINF:-1 group-title="FRANCE",BFM TV
+URL_BFMTV
+
+# ===== BELGIQUE =====
+
+#EXTINF:-1 group-title="BELGIQUE",La Une RTBF
+URL_LA_UNE
+#EXTINF:-1 group-title="BELGIQUE",Tipik
+URL_TIPIK
+#EXTINF:-1 group-title="BELGIQUE",La Trois
+URL_LA_TROIS
+#EXTINF:-1 group-title="BELGIQUE",RTL TVI
+URL_RTL_TVI
+#EXTINF:-1 group-title="BELGIQUE",Club RTL
+URL_CLUB_RTL
+#EXTINF:-1 group-title="BELGIQUE",Plug RTL
+URL_PLUG_RTL
+#EXTINF:-1 group-title="BELGIQUE",AB3
+URL_AB3
+#EXTINF:-1 group-title="BELGIQUE",LN24
+URL_LN24
+#EXTINF:-1 group-title="BELGIQUE",BX1
+URL_BX1
+
+# ===== CANAL PLUS =====
+
+#EXTINF:-1 group-title="CANAL+",Canal+
+URL_ABONNEMENT_CANALPLUS
+#EXTINF:-1 group-title="CANAL+",Canal+ Sport
+URL_CANALPLUS_SPORT
+#EXTINF:-1 group-title="CANAL+",Canal+ Cinema
+URL_CANALPLUS_CINEMA
+#EXTINF:-1 group-title="CANAL+",Canal+ Series
+URL_CANALPLUS_SERIES
