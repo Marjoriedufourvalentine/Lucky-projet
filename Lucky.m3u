@@ -1,6 +1,6 @@
 #EXTM3U
 
-# ===== FRANCE =====
+#===== FRANCE =====
 
 #EXTINF:-1 group-title="FRANCE",TF1
 URL_TF1
@@ -20,12 +20,33 @@ URL_ARTE
 URL_W9
 #EXTINF:-1 group-title="FRANCE",TMC
 URL_TMC
-#EXTINF:-1 group-title="FRANCE",BFM TV
+#EXTINF:-1 group-title="FRANCE",C8
+URL_C8
+#EXTINF:-1 group-title="FRANCE",6ter
+URL_6TER
+#EXTINF:-1 group-title="FRANCE",Gulli
+URL_GULLI
+
+#===== INFO =====
+
+#EXTINF:-1 group-title="INFO",BFM TV
 URL_BFMTV
+#EXTINF:-1 group-title="INFO",franceinfo
+URL_FRANCEINFO
+#EXTINF:-1 group-title="INFO",LCI
+URL_LCI
+#EXTINF:-1 group-title="INFO",CNews
+URL_CNEWS
+#EXTINF:-1 group-title="INFO",France 24
+URL_FRANCE24
+#EXTINF:-1 group-title="INFO",Euronews
+URL_EURONEWS
+#EXTINF:-1 group-title="INFO",TV5Monde Info
+URL_TV5MONDE
 
-# ===== BELGIQUE =====
+#===== BELGIQUE =====
 
-#EXTINF:-1 group-title="BELGIQUE",La Une RTBF
+#EXTINF:-1 group-title="BELGIQUE",La Une
 URL_LA_UNE
 #EXTINF:-1 group-title="BELGIQUE",Tipik
 URL_TIPIK
@@ -44,13 +65,54 @@ URL_LN24
 #EXTINF:-1 group-title="BELGIQUE",BX1
 URL_BX1
 
-# ===== CANAL PLUS =====
+#===== SUISSE =====
+
+#EXTINF:-1 group-title="SUISSE",RTS 1
+URL_RTS1
+#EXTINF:-1 group-title="SUISSE",RTS 2
+URL_RTS2
+
+#===== CANAL+ =====
 
 #EXTINF:-1 group-title="CANAL+",Canal+
 URL_ABONNEMENT_CANALPLUS
 #EXTINF:-1 group-title="CANAL+",Canal+ Sport
 URL_CANALPLUS_SPORT
-#EXTINF:-1 group-title="CANAL+",Canal+ Cinema
+#EXTINF:-1 group-title="CANAL+",Cinéma Canal+
 URL_CANALPLUS_CINEMA
-#EXTINF:-1 group-title="CANAL+",Canal+ Series
+#EXTINF:-1 group-title="CANAL+",Série Canal+
 URL_CANALPLUS_SERIES
+
+#===== SPORT =====
+
+#EXTINF:-1 group-title="SPORT",L'Équipe
+URL_LEQUIPE
+#EXTINF:-1 group-title="SPORT",RMC Sport 1
+URL_RMCSPORT1
+#EXTINF:-1 group-title="SPORT",beIN Sports 1
+URL_BEIN1
+#EXTINF:-1 group-title="SPORT",Eurosport 1
+URL_EUROSPORT1
+
+#===== CINEMA =====
+
+#EXTINF:-1 group-title="CINEMA",TCM Cinéma
+URL_TCM
+#EXTINF:-1 group-title="CINEMA",Paramount Channel
+URL_PARAMOUNT
+#EXTINF:-1 group-title="CINEMA",Ciné+ Premier
+URL_CINEPLUS_PREMIER
+
+#===== ENFANTS =====
+
+#EXTINF:-1 group-title="ENFANTS",Gulli
+URL_GULLI_ENFANTS
+#EXTINF:-1 group-title="ENFANTS",Piwi+
+URL_PIWI
+#EXTINF:-1 group-title="ENFANTS",Boomerang
+URL_BOOMERANG
+#EXTINF:-1 group-title="ENFANTS",Cartoon Network
+URL_CARTOON
+#EXTINF:-1 group-title="ENFANTS",Nickelodeon
+URL_NICKELODEON
+
